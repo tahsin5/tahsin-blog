@@ -14,6 +14,6 @@ categories: [fastpages, deep learning]
     - 
 
 2. B:
-    * batch axis/dimension: First axis of the data.
+    * batch axis/dimension: First axis of the data. Usually corresponds to the number of samples in data.
 
 3. 
