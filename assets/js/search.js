@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "https://tahsin5.github.io/fastpages/deep%20learning/2020/03/03/Deep-Learning-Terms.html",
     "title": "Common Terms used in Deep Learning",
-    "body": "2020/03/03 - This post is a work-in-progress. It is not finished yet. :  A:         B:     batch axis/dimension: First axis of the data.    3. "
+    "body": "2020/03/03 - This post is a work-in-progress. It is not finished yet. :  A:         B:     batch axis/dimension: First axis of the data. Usually corresponds to the number of samples in data.    3. "
     }, {
     "id": 5,
     "url": "https://tahsin5.github.io/jupyter/2020/02/20/test.html",
