@@ -14,6 +14,7 @@ categories: [fastpages, deep learning]
     - 
 
 2. B:
-    * batch axis/dimension: First axis of the data. Usually corresponds to the number of samples in data.
+    * Batch axis/dimension: First axis of the data. Usually corresponds to the number of samples in data.
 
-3. 
+3. S:
+    * Spatial hierarchy: Hierarchial learning of features. First layer learns edges, lines, etc. Second layer combines them to learn shapes like circles, squares, spheres, etc. Third layers combines them to learn faces, limbs, etc.
